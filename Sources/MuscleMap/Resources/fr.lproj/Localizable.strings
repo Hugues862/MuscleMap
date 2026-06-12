@@ -4,7 +4,7 @@
 "muscle.ankles" = "Chevilles";
 "muscle.biceps" = "Biceps";
 "muscle.calves" = "Mollets";
-"muscle.chest" = "Poitrine";
+"muscle.chest" = "Pectoraux";
 "muscle.deltoids" = "Deltoïdes";
 "muscle.feet" = "Pieds";
 "muscle.forearm" = "Avant-bras";
@@ -25,8 +25,8 @@
 "muscle.hipFlexors" = "Fléchisseurs de hanche";
 "muscle.serratus" = "Dentelé";
 "muscle.rhomboids" = "Rhomboïdes";
-"muscle.upperChest" = "Haut de poitrine";
-"muscle.lowerChest" = "Bas de poitrine";
+"muscle.upperChest" = "Pectoraux supérieurs";
+"muscle.lowerChest" = "Pectoraux inférieurs";
 "muscle.innerQuad" = "Quadriceps interne";
 "muscle.outerQuad" = "Quadriceps externe";
 "muscle.upperAbs" = "Abdominaux supérieurs";
